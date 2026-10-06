@@ -1,4 +1,4 @@
-# llm-vuln-scan
+# CWE-Lens
 
 An LLM-powered static vulnerability scanner that runs entirely locally using Ollama. No API keys, no cloud, no cost.
 
